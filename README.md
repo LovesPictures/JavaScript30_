@@ -3,6 +3,7 @@
 
 Created：25/10/2021
 latest update：26/10/2021
+![image](https://user-images.githubusercontent.com/25634451/138946027-27dcf11c-f382-4f35-89ae-af3eee57d7cd.png)
 
 > Repo by: [LovesPictures](https://github.com/LovesPictures)
 > Original Repo [JavaScript30](https://javascript30.com) Author：[Wes Bos](https://github.com/wesbos) （￣ー￣）
