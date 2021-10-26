@@ -25,7 +25,7 @@ JavaScirpt30 is a 30-day challenge launched by Wes Bos. The project provides fre
 
 
  
-## Contents
+## Table Of Contents
 
 No | Code | Demo
 --- | --- | ---
