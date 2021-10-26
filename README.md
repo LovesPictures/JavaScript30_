@@ -18,7 +18,7 @@ JavaScirpt30 is a 30-day challenge launched by Wes Bos. The project provides fre
 > No Frameworks × No Compilers × No Libraries × No Boilerplate.
 
 
-## Helpful Links
+## Useful Links
 
 * [You SHOULD Learn Vanilla JavaScript Before JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)  
 * [Javasript on Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
