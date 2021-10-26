@@ -5,29 +5,42 @@ Created：25/10/2021
 latest update：26/10/2021
 
 > Repo by: [LovesPictures](https://github.com/lovespictutes)  To be updated.
-> Original Repo [JavaScript30](https://javascript30.com) Author：[Wes Bos](https://github.com/wesbos)  ♪(^∇^*) 
+> Original Repo [JavaScript30](https://javascript30.com) Author：[Wes Bos](https://github.com/wesbos) （￣ー￣）
+> 
 
 ## JavaScript30 What is it？
 
 JavaScirpt30 is a 30-day challenge launched by Wes Bos. The project provides free 30 video tutorials, 30 challenge starting documents and 30 challenge solution source codes. The purpose is to help people write things in pure JavaScript, without the help of frameworks and libraries, and without the use of compilers and references.
 
+
 ## Project Objectives;
 > To build 30 things in 30 days with 30  tutorial
-> No Frameworks × No Compilers × No Libraries × No Boilerplate
+> No Frameworks × No Compilers × No Libraries × No Boilerplate.
+
 
 ## Helpful Links
 
 * [You SHOULD Learn Vanilla JavaScript Before JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)  
 * [Javasript on Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
+
+
  
 ## Contents
 
 No | Code | Demo
 --- | --- | ---
 1 | [JavaScript Drum Kit]( https://github.com/LovesPictures/drumKit/blob/main/index.html) |  [DrumKit]( https://lovespictures.github.io/drumKit/) 
+2 | [JavaScript Drum Kit]( https://github.com/LovesPictures/drumKit/blob/main/index.html) |  [DrumKit]( https://lovespictures.github.io/drumKit/)
 
 
-<!-- 2 | [JS + CSS Clock 指南](https://github.com/soyaine/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock) |  [纯 JavaScript+CSS 时钟效果](http://soyaine.github.io/JavaScript30/02%20-%20JS%20%2B%20CSS%20Clock/index-SOYAINE.html)
+<!-- 
+interesting documetation https://github.com/nitishdayal/JavaScript30
+origitnal read.me  https://github.com/soyaine/JavaScript30
+
+
+
+
+2 | [JS + CSS Clock 指南](https://github.com/soyaine/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock) |  [纯 JavaScript+CSS 时钟效果](http://soyaine.github.io/JavaScript30/02%20-%20JS%20%2B%20CSS%20Clock/index-SOYAINE.html)
 3 | [CSS Variables 指南](https://github.com/soyaine/JavaScript30/tree/master/03%20-%20CSS%20Variables) |  [用 CSS 变量实现拖动控制参数效果](http://soyaine.github.io/JavaScript30/03%20-%20CSS%20Variables/index-SOYAINE.html)
 4 | [Array Cardio, Day 1 指南](https://github.com/soyaine/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201) | [数组基本操作方法示例一](http://soyaine.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index-SOYAINE.html)
 5 | [Flex Panel Gallery 指南](https://github.com/soyaine/JavaScript30/blob/master/05%20-%20Flex%20Panel%20Gallery/README.md) | [可伸缩的图片墙在线效果](https://soyaine.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index-SOYAINE2.html)
