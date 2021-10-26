@@ -4,9 +4,9 @@
 Created：25/10/2021
 latest update：26/10/2021
 
-> Repo by: [LovesPictures](https://github.com/lovespictutes)  To be updated.
+> Repo by: [LovesPictures](https://github.com/LovesPictures)
 > Original Repo [JavaScript30](https://javascript30.com) Author：[Wes Bos](https://github.com/wesbos) （￣ー￣）
-> 
+
 
 ## JavaScript30 What is it？
 
@@ -30,7 +30,7 @@ JavaScirpt30 is a 30-day challenge launched by Wes Bos. The project provides fre
 No | Code | Demo
 --- | --- | ---
 1 | [JavaScript Drum Kit]( https://github.com/LovesPictures/drumKit/blob/main/index.html) |  [DrumKit]( https://lovespictures.github.io/drumKit/) 
-2 | [JavaScript Drum Kit]( https://github.com/LovesPictures/drumKit/blob/main/index.html) |  [DrumKit]( https://lovespictures.github.io/drumKit/)
+<!-- 2 | [JavaScript Drum Kit]( https://github.com/LovesPictures/drumKit/blob/main/index.html) |  [DrumKit]( https://lovespictures.github.io/drumKit/) -->
 
 
 <!-- 
