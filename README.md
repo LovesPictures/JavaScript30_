@@ -31,7 +31,7 @@ JavaScirpt30 is a 30-day challenge launched by Wes Bos. The project provides fre
 
 No | Code | Demo
 --- | --- | ---
-1 | [JavaScript Drum Kit]( https://github.com/LovesPictures/drumKit/blob/main/index.html) |  [DrumKit]( https://lovespictures.github.io/drumKit/) 
+1 | [JavaScript Drum Kit](https://github.com/LovesPictures/DrumKit) |  [DrumKit]( https://lovespictures.github.io/drumKit/) 
 2 | [ Clock JS/CSS](https://github.com/LovesPictures/JSClock) |   [Clock]( https://lovespictures.github.io/JSClock/) 
 <!-- 3 | [ Playing: CSS Variables + JS](https://github.com/LovesPictures/JSClock/blob/main/index.html) |  [Playing]( https://lovespictures.github.io/JSClock/) -->
 
