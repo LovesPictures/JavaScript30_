@@ -34,7 +34,7 @@ No | Code | Demo
 1 | [JavaScript Drum Kit](https://github.com/LovesPictures/DrumKit) |  [DrumKit](https://lovespictures.github.io/DrumKit/) 
 2 | [ Clock JS/CSS](https://github.com/LovesPictures/JSClock) |   [Clock]( https://lovespictures.github.io/JSClock/) 
 3 | [ Playing: CSS Variables + JS](https://github.com/LovesPictures/CSSvariables) |  [CSS variables]( https://lovespictures.github.io/CSSvariables/)
-4 | [ Array Cardio ](https://github.com/LovesPictures/CardioDay) |   [Arrays (Dev tools)]( https://lovespictures.github.io/CardioDay/)
+4 | [ Array Cardio ](https://github.com/LovesPictures/CardioDay) |   [Arrays ( view in JavaScript Console)]( https://lovespictures.github.io/CardioDay/)
 <!-- 5 | [ Image Gallery](https://github.com/LovesPictures/ImageGallery) |  [CSS variables]( https://lovespictures.github.io/CSSvariables/) -->
 
 <!-- https://lovespictures.github.io/CardioDay/
