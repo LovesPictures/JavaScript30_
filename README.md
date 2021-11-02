@@ -35,7 +35,10 @@ No | Code | Demo
 2 | [ Clock JS/CSS](https://github.com/LovesPictures/JSClock) |   [Clock]( https://lovespictures.github.io/JSClock/) 
 3 | [ Playing: CSS Variables + JS](https://github.com/LovesPictures/CSSvariables) |  [CSS variables]( https://lovespictures.github.io/CSSvariables/)
 4 | [ Array Cardio ](https://github.com/LovesPictures/CardioDay) |   [Arrays ( view in JavaScript Console)]( https://lovespictures.github.io/CardioDay/)
-<!-- 5 | [ Image Gallery](https://github.com/LovesPictures/ImageGallery) |  [CSS variables]( https://lovespictures.github.io/CSSvariables/) -->
+5 | [ Image Gallery](https://github.com/LovesPictures/ImageGallery) |  [Image Galllery](https://lovespictures.github.io/ImageGallery/)
+6 | [ Array Cardio II](https://github.com/LovesPictures/canvas) |  [ Canvass ]( https://lovespictures.github.io/canvas/)
+<!-- 7 | [ Image Gallery](https://github.com/LovesPictures/CardioDayII) |  [Cardio II]( https://lovespictures.github.io/CSSvariables/)
+8 | [ Type Ahead](https://github.com/LovesPictures/TypeAhead) |  [CSS variables]( https://lovespictures.github.io/CSSvariables/) -->
 
 <!-- https://lovespictures.github.io/CardioDay/
 interesting documetation https://github.com/nitishdayal/JavaScript30
